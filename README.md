@@ -77,6 +77,8 @@ plt.ylabel('Frequency (Hz)')
 plt.tight_layout()
 plt.show()
 
+__Tabulation:__
+![WhatsApp Image 2025-11-25 at 11 03 49_8b6c3114](https://github.com/user-attachments/assets/8d21183a-5999-4509-888f-933b6717b81f)
 
 __Output:__
 <img width="989" height="790" alt="image" src="https://github.com/user-attachments/assets/c2c71bdc-d74f-456e-949b-6ccd4c25a91f" />
